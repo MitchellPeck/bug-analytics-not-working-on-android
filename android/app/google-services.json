@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "134293639029",
+    "firebase_url": "https://myattendancedesk-default-rtdb.firebaseio.com",
+    "project_id": "myattendancedesk",
+    "storage_bucket": "myattendancedesk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134293639029:android:aab332abf7ca44f82f0d3c",
+        "android_client_info": {
+          "package_name": "com.myschooldesk.myattendancedesk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134293639029-mlpu71ds3s0o01a0rlei415dudesp1gr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myschooldesk.myattendancedesk",
+            "certificate_hash": "c1b3a289d564da1139bd83db7dd97d8d1cf851fe"
+          }
+        },
+        {
+          "client_id": "134293639029-n1bqlq2fetouk2on0dvei6mr34e1d7os.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5mCsnkMBl_2jN5sP4HiAiGtW8Okc08Wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134293639029-n1bqlq2fetouk2on0dvei6mr34e1d7os.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "134293639029-7kjveljpd34jcnccjst374krjec9cr43.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.myschooldesk.myattendancedesk",
+                "app_store_id": "6447928494"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+vars:
+  VERSION_ID:
+
+platforms:
+  android:
+    versionCode: $VERSION_ID
+    versionName: $VERSION_ID
+    manifest:
+      - file: AndroidManifest.xml
+        target: manifest/application
+        inject:
+          <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  ios:
+    buildNumber: $VERSION_ID
+    targets:
+      App:
+        version: $VERSION_ID

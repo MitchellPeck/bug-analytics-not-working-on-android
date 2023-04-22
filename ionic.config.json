@@ -1,0 +1,8 @@
+{
+  "name": "My AttendanceDesk",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "860c86a0"
+}
